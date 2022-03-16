@@ -1,0 +1,373 @@
+GEO,TIME,DEG_URB,SEX,AGE,Percent
+Austria,2014,Cities,Females,15-64,10
+Austria,2014,Cities,Males,15-64,7.6
+Austria,2014,Cities,Total,15-64,8.8
+Austria,2014,Rural,Females,15-64,7.3
+Austria,2014,Rural,Males,15-64,3.5
+Austria,2014,Rural,Total,15-64,5.4
+Austria,2014,Total,Females,15-64,8.4
+Austria,2014,Total,Males,15-64,5
+Austria,2014,Total,Total,15-64,6.7
+Austria,2014,Towns and suburbs,Females,15-64,8
+Austria,2014,Towns and suburbs,Males,15-64,4
+Austria,2014,Towns and suburbs,Total,15-64,6
+Belgium,2014,Cities,Females,15-64,8.7
+Belgium,2014,Cities,Males,15-64,5.9
+Belgium,2014,Cities,Total,15-64,7.3
+Belgium,2014,Rural,Females,15-64,6.4
+Belgium,2014,Rural,Males,15-64,4
+Belgium,2014,Rural,Total,15-64,5.2
+Belgium,2014,Total,Females,15-64,7.5
+Belgium,2014,Total,Males,15-64,4.8
+Belgium,2014,Total,Total,15-64,6.2
+Belgium,2014,Towns and suburbs,Females,15-64,6.7
+Belgium,2014,Towns and suburbs,Males,15-64,4.1
+Belgium,2014,Towns and suburbs,Total,15-64,5.4
+Bulgaria,2014,Cities,Females,15-64,2.7
+Bulgaria,2014,Cities,Males,15-64,1.4
+Bulgaria,2014,Cities,Total,15-64,2
+Bulgaria,2014,Rural,Females,15-64,4
+Bulgaria,2014,Rural,Males,15-64,1.8
+Bulgaria,2014,Rural,Total,15-64,2.8
+Bulgaria,2014,Total,Females,15-64,3.3
+Bulgaria,2014,Total,Males,15-64,1.7
+Bulgaria,2014,Total,Total,15-64,2.5
+Bulgaria,2014,Towns and suburbs,Females,15-64,3.7
+Bulgaria,2014,Towns and suburbs,Males,15-64,2
+Bulgaria,2014,Towns and suburbs,Total,15-64,2.8
+Croatia,2014,Cities,Females,15-64,2.7
+Croatia,2014,Cities,Males,15-64,0.9
+Croatia,2014,Cities,Total,15-64,1.9
+Croatia,2014,Rural,Females,15-64,5.3
+Croatia,2014,Rural,Males,15-64,7.3
+Croatia,2014,Rural,Total,15-64,6.3
+Croatia,2014,Total,Females,15-64,4.4
+Croatia,2014,Total,Males,15-64,4.5
+Croatia,2014,Total,Total,15-64,4.4
+Croatia,2014,Towns and suburbs,Females,15-64,4.6
+Croatia,2014,Towns and suburbs,Males,15-64,3.2
+Croatia,2014,Towns and suburbs,Total,15-64,3.9
+Cyprus,2014,Cities,Females,15-64,3.9
+Cyprus,2014,Cities,Males,15-64,2.4
+Cyprus,2014,Cities,Total,15-64,3.2
+Cyprus,2014,Rural,Females,15-64,2.2
+Cyprus,2014,Rural,Males,15-64,1.8
+Cyprus,2014,Rural,Total,15-64,2
+Cyprus,2014,Total,Females,15-64,3.4
+Cyprus,2014,Total,Males,15-64,2.2
+Cyprus,2014,Total,Total,15-64,2.8
+Cyprus,2014,Towns and suburbs,Females,15-64,3.3
+Cyprus,2014,Towns and suburbs,Males,15-64,2.2
+Cyprus,2014,Towns and suburbs,Total,15-64,2.8
+Czechia,2014,Cities,Females,15-64,3.7
+Czechia,2014,Cities,Males,15-64,2.7
+Czechia,2014,Cities,Total,15-64,3.3
+Czechia,2014,Rural,Females,15-64,4.1
+Czechia,2014,Rural,Males,15-64,3.6
+Czechia,2014,Rural,Total,15-64,3.8
+Czechia,2014,Total,Females,15-64,3.9
+Czechia,2014,Total,Males,15-64,3.1
+Czechia,2014,Total,Total,15-64,3.5
+Czechia,2014,Towns and suburbs,Females,15-64,3.8
+Czechia,2014,Towns and suburbs,Males,15-64,2.7
+Czechia,2014,Towns and suburbs,Total,15-64,3.3
+Denmark,2014,Cities,Females,15-64,9.6
+Denmark,2014,Cities,Males,15-64,6.6
+Denmark,2014,Cities,Total,15-64,8.1
+Denmark,2014,Rural,Females,15-64,10.2
+Denmark,2014,Rural,Males,15-64,7.5
+Denmark,2014,Rural,Total,15-64,8.8
+Denmark,2014,Total,Females,15-64,10
+Denmark,2014,Total,Males,15-64,6.9
+Denmark,2014,Total,Total,15-64,8.4
+Denmark,2014,Towns and suburbs,Females,15-64,10.3
+Denmark,2014,Towns and suburbs,Males,15-64,6.1
+Denmark,2014,Towns and suburbs,Total,15-64,8.2
+Estonia,2014,Cities,Females,15-64,6.3
+Estonia,2014,Cities,Males,15-64,4
+Estonia,2014,Cities,Total,15-64,5.1
+Estonia,2014,Rural,Females,15-64,4.6
+Estonia,2014,Rural,Males,15-64,4.8
+Estonia,2014,Rural,Total,15-64,4.7
+Estonia,2014,Total,Females,15-64,5.8
+Estonia,2014,Total,Males,15-64,4.1
+Estonia,2014,Total,Total,15-64,5
+Estonia,2014,Towns and suburbs,Females,15-64,6.7
+Estonia,2014,Towns and suburbs,Males,15-64,3.2
+Estonia,2014,Towns and suburbs,Total,15-64,5.1
+Finland,2014,Cities,Females,15-64,13.5
+Finland,2014,Cities,Males,15-64,8.8
+Finland,2014,Cities,Total,15-64,11.3
+Finland,2014,Rural,Females,15-64,8.7
+Finland,2014,Rural,Males,15-64,9.3
+Finland,2014,Rural,Total,15-64,9
+Finland,2014,Total,Females,15-64,12.1
+Finland,2014,Total,Males,15-64,9.3
+Finland,2014,Total,Total,15-64,10.7
+Finland,2014,Towns and suburbs,Females,15-64,12.7
+Finland,2014,Towns and suburbs,Males,15-64,9.7
+Finland,2014,Towns and suburbs,Total,15-64,11.2
+France,2014,Cities,Females,15-64,8.1
+France,2014,Cities,Males,15-64,4.8
+France,2014,Cities,Total,15-64,6.6
+France,2014,Rural,Females,15-64,5.8
+France,2014,Rural,Males,15-64,3
+France,2014,Rural,Total,15-64,4.4
+France,2014,Total,Females,15-64,7.2
+France,2014,Total,Males,15-64,4
+France,2014,Total,Total,15-64,5.6
+France,2014,Towns and suburbs,Females,15-64,7.8
+France,2014,Towns and suburbs,Males,15-64,4.5
+France,2014,Towns and suburbs,Total,15-64,6.3
+Germany,2014,Cities,Females,15-64,13.5
+Germany,2014,Cities,Males,15-64,11.2
+Germany,2014,Cities,Total,15-64,12.3
+Germany,2014,Rural,Females,15-64,12
+Germany,2014,Rural,Males,15-64,8.1
+Germany,2014,Rural,Total,15-64,10
+Germany,2014,Total,Females,15-64,12.9
+Germany,2014,Total,Males,15-64,9.4
+Germany,2014,Total,Total,15-64,11.2
+Germany,2014,Towns and suburbs,Females,15-64,12.9
+Germany,2014,Towns and suburbs,Males,15-64,8.7
+Germany,2014,Towns and suburbs,Total,15-64,10.8
+Greece,2014,Cities,Females,15-64,4.2
+Greece,2014,Cities,Males,15-64,3.2
+Greece,2014,Cities,Total,15-64,3.7
+Greece,2014,Rural,Females,15-64,4.2
+Greece,2014,Rural,Males,15-64,3.4
+Greece,2014,Rural,Total,15-64,3.8
+Greece,2014,Total,Females,15-64,4.1
+Greece,2014,Total,Males,15-64,2.5
+Greece,2014,Total,Total,15-64,3.3
+Greece,2014,Towns and suburbs,Females,15-64,3.8
+Greece,2014,Towns and suburbs,Males,15-64,0.9
+Greece,2014,Towns and suburbs,Total,15-64,2.3
+Hungary,2014,Cities,Females,15-64,4.2
+Hungary,2014,Cities,Males,15-64,2.5
+Hungary,2014,Cities,Total,15-64,3.4
+Hungary,2014,Rural,Females,15-64,7
+Hungary,2014,Rural,Males,15-64,3.4
+Hungary,2014,Rural,Total,15-64,5.2
+Hungary,2014,Total,Females,15-64,5.2
+Hungary,2014,Total,Males,15-64,3
+Hungary,2014,Total,Total,15-64,4.1
+Hungary,2014,Towns and suburbs,Females,15-64,4.3
+Hungary,2014,Towns and suburbs,Males,15-64,2.9
+Hungary,2014,Towns and suburbs,Total,15-64,3.6
+Iceland,2014,Cities,Females,15-64,17.3
+Iceland,2014,Cities,Males,15-64,13.7
+Iceland,2014,Cities,Total,15-64,15.5
+Iceland,2014,Rural,Females,15-64,18.3
+Iceland,2014,Rural,Males,15-64,10.3
+Iceland,2014,Rural,Total,15-64,14.3
+Iceland,2014,Total,Females,15-64,18.6
+Iceland,2014,Total,Males,15-64,13.4
+Iceland,2014,Total,Total,15-64,16
+Iceland,2014,Towns and suburbs,Females,15-64,23.4
+Iceland,2014,Towns and suburbs,Males,15-64,14.7
+Iceland,2014,Towns and suburbs,Total,15-64,19
+Ireland,2014,Cities,Females,15-64,16.2
+Ireland,2014,Cities,Males,15-64,10.1
+Ireland,2014,Cities,Total,15-64,13.2
+Ireland,2014,Rural,Females,15-64,11.9
+Ireland,2014,Rural,Males,15-64,10.4
+Ireland,2014,Rural,Total,15-64,11.2
+Ireland,2014,Total,Females,15-64,13.9
+Ireland,2014,Total,Males,15-64,10.7
+Ireland,2014,Total,Total,15-64,12.3
+Ireland,2014,Towns and suburbs,Females,15-64,14.1
+Ireland,2014,Towns and suburbs,Males,15-64,12.1
+Ireland,2014,Towns and suburbs,Total,15-64,13.1
+Italy,2014,Cities,Females,15-64,4.5
+Italy,2014,Cities,Males,15-64,3.2
+Italy,2014,Cities,Total,15-64,3.9
+Italy,2014,Rural,Females,15-64,3.9
+Italy,2014,Rural,Males,15-64,2.3
+Italy,2014,Rural,Total,15-64,3.1
+Italy,2014,Total,Females,15-64,4.1
+Italy,2014,Total,Males,15-64,2.7
+Italy,2014,Total,Total,15-64,3.5
+Italy,2014,Towns and suburbs,Females,15-64,4
+Italy,2014,Towns and suburbs,Males,15-64,2.6
+Italy,2014,Towns and suburbs,Total,15-64,3.3
+Latvia,2014,Cities,Females,15-64,10.5
+Latvia,2014,Cities,Males,15-64,5.7
+Latvia,2014,Cities,Total,15-64,8.3
+Latvia,2014,Rural,Females,15-64,10.9
+Latvia,2014,Rural,Males,15-64,5.8
+Latvia,2014,Rural,Total,15-64,8.3
+Latvia,2014,Total,Females,15-64,10.9
+Latvia,2014,Total,Males,15-64,5.8
+Latvia,2014,Total,Total,15-64,8.4
+Latvia,2014,Towns and suburbs,Females,15-64,11.8
+Latvia,2014,Towns and suburbs,Males,15-64,6.1
+Latvia,2014,Towns and suburbs,Total,15-64,9.1
+Lithuania,2014,Cities,Females,15-64,3.8
+Lithuania,2014,Cities,Males,15-64,1.7
+Lithuania,2014,Cities,Total,15-64,2.8
+Lithuania,2014,Rural,Females,15-64,4.6
+Lithuania,2014,Rural,Males,15-64,3
+Lithuania,2014,Rural,Total,15-64,3.8
+Lithuania,2014,Total,Females,15-64,4.4
+Lithuania,2014,Total,Males,15-64,2.3
+Lithuania,2014,Total,Total,15-64,3.4
+Lithuania,2014,Towns and suburbs,Females,15-64,7
+Lithuania,2014,Towns and suburbs,Males,15-64,0.8
+Lithuania,2014,Towns and suburbs,Total,15-64,4.1
+Luxembourg,2014,Cities,Females,15-64,10.8
+Luxembourg,2014,Cities,Males,15-64,10.7
+Luxembourg,2014,Cities,Total,15-64,10.7
+Luxembourg,2014,Rural,Females,15-64,9.8
+Luxembourg,2014,Rural,Males,15-64,7.6
+Luxembourg,2014,Rural,Total,15-64,8.7
+Luxembourg,2014,Total,Females,15-64,11.2
+Luxembourg,2014,Total,Males,15-64,8.3
+Luxembourg,2014,Total,Total,15-64,9.7
+Luxembourg,2014,Towns and suburbs,Females,15-64,13.5
+Luxembourg,2014,Towns and suburbs,Males,15-64,8.1
+Luxembourg,2014,Towns and suburbs,Total,15-64,10.9
+Malta,2014,Cities,Females,15-64,6.5
+Malta,2014,Cities,Males,15-64,3.5
+Malta,2014,Cities,Total,15-64,5
+Malta,2014,Rural,Females,15-64,4.8
+Malta,2014,Rural,Males,15-64,4.1
+Malta,2014,Rural,Total,15-64,4.4
+Malta,2014,Total,Females,15-64,5.4
+Malta,2014,Total,Males,15-64,4.1
+Malta,2014,Total,Total,15-64,4.8
+Malta,2014,Towns and suburbs,Females,15-64,4.5
+Malta,2014,Towns and suburbs,Males,15-64,4.8
+Malta,2014,Towns and suburbs,Total,15-64,4.7
+Netherlands,2014,Cities,Females,15-64,11.1
+Netherlands,2014,Cities,Males,15-64,9.4
+Netherlands,2014,Cities,Total,15-64,10.3
+Netherlands,2014,Rural,Females,15-64,7.8
+Netherlands,2014,Rural,Males,15-64,4.5
+Netherlands,2014,Rural,Total,15-64,6.1
+Netherlands,2014,Total,Females,15-64,9.4
+Netherlands,2014,Total,Males,15-64,7.2
+Netherlands,2014,Total,Total,15-64,8.3
+Netherlands,2014,Towns and suburbs,Females,15-64,7.8
+Netherlands,2014,Towns and suburbs,Males,15-64,5.6
+Netherlands,2014,Towns and suburbs,Total,15-64,6.7
+Norway,2014,Cities,Females,15-64,8
+Norway,2014,Cities,Males,15-64,5.9
+Norway,2014,Cities,Total,15-64,7
+Norway,2014,Rural,Females,15-64,9.9
+Norway,2014,Rural,Males,15-64,6.2
+Norway,2014,Rural,Total,15-64,8
+Norway,2014,Total,Females,15-64,9.2
+Norway,2014,Total,Males,15-64,5.3
+Norway,2014,Total,Total,15-64,7.2
+Norway,2014,Towns and suburbs,Females,15-64,9.5
+Norway,2014,Towns and suburbs,Males,15-64,3.7
+Norway,2014,Towns and suburbs,Total,15-64,6.6
+Poland,2014,Cities,Females,15-64,5.6
+Poland,2014,Cities,Males,15-64,3.2
+Poland,2014,Cities,Total,15-64,4.5
+Poland,2014,Rural,Females,15-64,4.1
+Poland,2014,Rural,Males,15-64,1.9
+Poland,2014,Rural,Total,15-64,3
+Poland,2014,Total,Females,15-64,4.7
+Poland,2014,Total,Males,15-64,2.4
+Poland,2014,Total,Total,15-64,3.6
+Poland,2014,Towns and suburbs,Females,15-64,4.3
+Poland,2014,Towns and suburbs,Males,15-64,2.3
+Poland,2014,Towns and suburbs,Total,15-64,3.3
+Portugal,2014,Cities,Females,15-64,15
+Portugal,2014,Cities,Males,15-64,4.9
+Portugal,2014,Cities,Total,15-64,10.2
+Portugal,2014,Rural,Females,15-64,14.3
+Portugal,2014,Rural,Males,15-64,5.2
+Portugal,2014,Rural,Total,15-64,9.8
+Portugal,2014,Total,Females,15-64,14.3
+Portugal,2014,Total,Males,15-64,4.8
+Portugal,2014,Total,Total,15-64,9.7
+Portugal,2014,Towns and suburbs,Females,15-64,13.4
+Portugal,2014,Towns and suburbs,Males,15-64,4.3
+Portugal,2014,Towns and suburbs,Total,15-64,9
+Romania,2014,Cities,Females,15-64,2
+Romania,2014,Cities,Males,15-64,1
+Romania,2014,Cities,Total,15-64,1.5
+Romania,2014,Rural,Females,15-64,1.2
+Romania,2014,Rural,Males,15-64,0.8
+Romania,2014,Rural,Total,15-64,1
+Romania,2014,Total,Females,15-64,1.5
+Romania,2014,Total,Males,15-64,0.9
+Romania,2014,Total,Total,15-64,1.2
+Romania,2014,Towns and suburbs,Females,15-64,1.2
+Romania,2014,Towns and suburbs,Males,15-64,0.9
+Romania,2014,Towns and suburbs,Total,15-64,1.1
+Slovakia,2014,Cities,Females,15-64,3.2
+Slovakia,2014,Cities,Males,15-64,2
+Slovakia,2014,Cities,Total,15-64,2.6
+Slovakia,2014,Rural,Females,15-64,4.3
+Slovakia,2014,Rural,Males,15-64,2.6
+Slovakia,2014,Rural,Total,15-64,3.4
+Slovakia,2014,Total,Females,15-64,4.4
+Slovakia,2014,Total,Males,15-64,2.8
+Slovakia,2014,Total,Total,15-64,3.6
+Slovakia,2014,Towns and suburbs,Females,15-64,5.3
+Slovakia,2014,Towns and suburbs,Males,15-64,3.5
+Slovakia,2014,Towns and suburbs,Total,15-64,4.4
+Slovenia,2014,Cities,Females,15-64,9.3
+Slovenia,2014,Cities,Males,15-64,8.9
+Slovenia,2014,Cities,Total,15-64,9.1
+Slovenia,2014,Rural,Females,15-64,10.4
+Slovenia,2014,Rural,Males,15-64,6
+Slovenia,2014,Rural,Total,15-64,8.1
+Slovenia,2014,Total,Females,15-64,10
+Slovenia,2014,Total,Males,15-64,6.8
+Slovenia,2014,Total,Total,15-64,8.4
+Slovenia,2014,Towns and suburbs,Females,15-64,9.9
+Slovenia,2014,Towns and suburbs,Males,15-64,7
+Slovenia,2014,Towns and suburbs,Total,15-64,8.4
+Spain,2014,Cities,Females,15-64,7.7
+Spain,2014,Cities,Males,15-64,3.9
+Spain,2014,Cities,Total,15-64,5.9
+Spain,2014,Rural,Females,15-64,9.5
+Spain,2014,Rural,Males,15-64,4.9
+Spain,2014,Rural,Total,15-64,7.1
+Spain,2014,Total,Females,15-64,8.3
+Spain,2014,Total,Males,15-64,4.2
+Spain,2014,Total,Total,15-64,6.2
+Spain,2014,Towns and suburbs,Females,15-64,8.2
+Spain,2014,Towns and suburbs,Males,15-64,4
+Spain,2014,Towns and suburbs,Total,15-64,6.1
+Sweden,2014,Cities,Females,15-64,13.4
+Sweden,2014,Cities,Males,15-64,7.6
+Sweden,2014,Cities,Total,15-64,10.4
+Sweden,2014,Rural,Females,15-64,12.7
+Sweden,2014,Rural,Males,15-64,9.6
+Sweden,2014,Rural,Total,15-64,11.1
+Sweden,2014,Total,Females,15-64,13.8
+Sweden,2014,Total,Males,15-64,8.1
+Sweden,2014,Total,Total,15-64,10.9
+Sweden,2014,Towns and suburbs,Females,15-64,15.3
+Sweden,2014,Towns and suburbs,Males,15-64,7.2
+Sweden,2014,Towns and suburbs,Total,15-64,11.1
+Turkey,2014,Cities,Females,15-64,0
+Turkey,2014,Cities,Males,15-64,0
+Turkey,2014,Cities,Total,15-64,0
+Turkey,2014,Rural,Females,15-64,0
+Turkey,2014,Rural,Males,15-64,0
+Turkey,2014,Rural,Total,15-64,0
+Turkey,2014,Total,Females,15-64,14.6
+Turkey,2014,Total,Males,15-64,7.1
+Turkey,2014,Total,Total,15-64,10.9
+Turkey,2014,Towns and suburbs,Females,15-64,0
+Turkey,2014,Towns and suburbs,Males,15-64,0
+Turkey,2014,Towns and suburbs,Total,15-64,0
+United Kingdom,2014,Cities,Females,15-64,11
+United Kingdom,2014,Cities,Males,15-64,8.1
+United Kingdom,2014,Cities,Total,15-64,9.6
+United Kingdom,2014,Rural,Females,15-64,10.5
+United Kingdom,2014,Rural,Males,15-64,6.8
+United Kingdom,2014,Rural,Total,15-64,8.7
+United Kingdom,2014,Total,Females,15-64,11
+United Kingdom,2014,Total,Males,15-64,7.6
+United Kingdom,2014,Total,Total,15-64,9.3
+United Kingdom,2014,Towns and suburbs,Females,15-64,11.8
+United Kingdom,2014,Towns and suburbs,Males,15-64,6.8
+United Kingdom,2014,Towns and suburbs,Total,15-64,9.2
